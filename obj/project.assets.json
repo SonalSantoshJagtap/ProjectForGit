@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MVC_Projects\\ProjectForGit\\ProjectForGit\\ProjectForGit.csproj",
+      "projectUniqueName": "C:\\Users\\Abhijeet Pharate\\source\\repos\\SonalSantoshJagtap\\ProjectForGit\\ProjectForGit.csproj",
       "projectName": "ProjectForGit",
-      "projectPath": "D:\\MVC_Projects\\ProjectForGit\\ProjectForGit\\ProjectForGit.csproj",
+      "projectPath": "C:\\Users\\Abhijeet Pharate\\source\\repos\\SonalSantoshJagtap\\ProjectForGit\\ProjectForGit.csproj",
       "packagesPath": "C:\\Users\\Abhijeet Pharate\\.nuget\\packages\\",
-      "outputPath": "D:\\MVC_Projects\\ProjectForGit\\ProjectForGit\\obj\\",
+      "outputPath": "C:\\Users\\Abhijeet Pharate\\source\\repos\\SonalSantoshJagtap\\ProjectForGit\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
